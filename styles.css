@@ -1,0 +1,42 @@
+body {
+    background-color: orangered;
+}
+
+h1 {
+    margin: 30px;
+    color: gold;
+    font-size: 7rem;
+    text-shadow: 5px 0 #232931;
+    font-family: 'Oleo Script', cursive;
+}
+
+.container {
+    text-align: center;
+}
+
+.dice {
+    display: inline-block;
+}
+
+p {
+    color: gold;
+    font-size: 2rem;
+    text-shadow: 5px 0 #232931;
+    font-family: 'Gochi Hand', cursive;
+}
+
+img {
+    width: 70%;
+    border: 3px solid #232931;
+    border-radius: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 5%;
+    color: #EEEEEE;
+    font-size: 1.2rem;
+    text-shadow: 3px 0 #232931;
+    font-family: 'Noto Serif', serif;
+    word-spacing: 2px;
+}
